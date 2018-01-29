@@ -1,0 +1,6 @@
+{
+  "name": "Request Header Parser",
+  "version": "1"
+}, "dependencies": {
+    "express": "^4.16.2"
+  },
